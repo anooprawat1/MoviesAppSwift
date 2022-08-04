@@ -1,6 +1,7 @@
 # MoviesAppSwift
 
 iOS project shows the list of the movies and detail of the selected movie. App is implemented with MVVM-C architecture. The app has pending test case written but the code for all components are loosely coupled, which definitely makes it easy to right them.
+For simplicity of the project it have single flow coordinator and DI container but we can expand those when needed.
 
 ### High Level Diagram
 
